@@ -1,0 +1,90 @@
+#                                     Curso de Redes - Módulo 1
+
+![happy](https://media0.giphy.com/media/cMPdlbcUKl3xkMCyD3/giphy.gif?cid=ecf05e47hhidoyveh25evkedyt04gxsvclvuvut1sao2ehoz&rid=giphy.gif&ct=g)
+
+
+
+#### O que é uma rede?
+
+### É uma conexão entre dois pontos que tem por finalidades primárias o acesso a dados, compartilhamento de recursos e administração centralizada.  Precisamos que esta conexão seja sempre mais rápida e segura possível.
+
+- Acesso a dados: Imagens, músicas, etc
+- Compartilhamento de recursos: vários dispositivos conectados a uma rede
+- Administração centralizada: Quanto maior a rede, maior a necessidade de administrar usuários e recursos.
+
+###  As redes permitem que informações sejam acessadas instantaneamente. Aplicações automatizam a utilização dos dados que consolidam estes recursos. Exemplo é a liberação de pagamentos, reuniões em vídeo, ligações, permissão de acessos e etc.
+
+#### Classificação das redes de acordo com a abrangência
+
+### Redes são classificadas de acordo com a abrangência da área física:
+
+- NFC: Near Field Close - Abrange área pequena, ex aproximação do cartão de pagamento, pagamento de passagem no ônibus etc.
+- BAN: Body Area Network: Dispositivos conectados ao corpo que medem condições corpóreas.
+- PAN: Personal Area Network: pequenas áreas, exemplo conexão wifi por rede móvel, bluetooth, etc.
+- NAN: Near-me Area Network: Rede de comunicação com dispositivos independentes, não necessita de estar conectado a uma mesma rede para que a comunicação aconteça;
+- LAN: Local Area Network: rede local, o administrador é local, pertence a uma mesma pessoa e a abrangência não ultrapassa a distância de um prédio
+  - WLAN: Uma Lan Wireless - sem fio
+  - HAN: Uma Lan caseira (k)
+  - SAN: Storage Area Network : dispositivos dedicados para armazenamento
+- CAN: Campus Area Network: redes locais que interligadas abrangem um campus
+- MANS: Metropolitans Area Network: Redes que abrangem kilometros
+- WANS: Wild Area Net.: redes de longo alcance que abrangem áreas de longo alcance, entre cidades, etc. Faz a conexão entre cidades.
+- GAN: Global Area Network: Internet global
+- Nuvem: Armazenamento na internet, não importando a localização - IAN
+
+
+
+## Internet, Intranet e Extranet
+
+#### Internet: Rede pública de área global. Provê recursos como www, emails, comunicação etc.
+
+#### Intranet: Rede com servidores privados. Necessita de autorização para acessar recursos etc. São limitados a uma localização.
+
+#### Extranet: Uma intranet que aceita acesso remoto e fora do alcance da localização da intranet.
+
+
+
+#### Computação Centralizada e Serviço Terminal
+
+#### Terminal que não tem poder de processamento. Sua tela é uma sessão onde o processamento é feita em uma unidade central de processamento. 
+
+#### Serviço de terminal: Tudo processado pelo terminal é feito em outro computador. 
+
+#### Telnet: Serviço de terminal que não utiliza criptografia
+
+#### SSH: Terminal que utiliza criptografia 
+
+ 
+
+#### Computação distribuída: Cada dispositivo tem seu próprio poder de processamento e somente transfere dados.
+
+#### Rede Cliente/Servidor: Servidor fornece recursos para rede, como armazenamento de dados, funcionalidades como email, etc. Então o cliente solicita serviços do servidor, faz a requisição dos conteúdos. Em ambientes domésticos ou em pequenas empresas se faz algo muito além que o necessário. 
+
+#### Rede Ponto-a-Ponto: Alternativa para pequenos ambientes utilizarem rede. Não existe um serviço diretório, recurso que administra usuários e senhas da rede. Na rede ponto-a-ponto é configurado os recursos por unidade. 
+
+#### Redes front-end: Um servidor pede informações a um segundo servidor, geralmente o servidor de dados. 
+
+#### Redes back-end: O servidor que possui os dados efetivamente armazenados e envia as informações para o servidor front-end. 
+
+#### Computação em nuvem: Os servidores que armazenam informações fisicamente estão espalhados pelo mundo. As informações são acessadas remotamente, podendo ser sobescritas, alteradas, etc. É um tipo de computação centralizada, onde enviamos o processamento para outro dispositivo realizar o processamento. Exemplos: Microsoft Office 365, google photos, github, etc.
+
+#### Computação Distribuída: Permite que o processamento de dados seja efetuado em diversos servidores ou processadores, dividindo a carga de processamento. 
+
+#### Computação em Grade: Geralmente computadores públicos que utilizam computação distribuída.
+
+ #### Proxy Direto: Intermediário de dois dispositivos e uma rede. Facilita a relação servidor-cliente. Se uma rede houver um proxy, ele fara a comunicação entre o servidor e o cliente. Ele funciona como um sistema de cache, onde ele armazena as informações para otimizar as requisições de arquivos já acessados para que a resposta seja mais rápida. Também serve para mascarar o endereço lógico da localidade onde a pessoa está acessando. Para contornar, é acessado um servidor em outra localidade intermediária até chegar onde desejado. 
+
+#### Proxy Reverso: Otimiza os servidores. Um proxy reverso pode ser um firewall, um servidor que filtra pacotes de dados que passa de um lado para outro. Outra utilização é o balanceamento de carga, que balanceia o processamento dos servidores para que cada um não ultrapasse sua capacidade máxima. 
+
+#### VPN: Criptografa a conexão para gerar segurança ao acessar domínios. 
+
+
+
+
+
+
+
+
+
+
+
