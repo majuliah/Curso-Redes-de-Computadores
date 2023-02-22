@@ -1,3 +1,28 @@
-#                                  Curso de Redes - Módulo 2
+#                                  							Curso de Redes - Módulo 2
 
 <img src="https://media3.giphy.com/media/DhstvI3zZ598Nb1rFf/200.webp?cid=ecf05e47r5762in1khyb993gaes7iifupp1hwxayxzudzbpd&rid=200.webp&ct=g" alt="happyDancing" style="zoom: 180%;" />
+
+
+
+#### Sistema Digital:
+
+#### Bases numéricas:
+
+## Conversões:
+
+### Binário  --> Decimal
+
+### Decimal --> Binário
+
+### Binário --> Hexadecimal
+
+### Hexadecimal --> Binário
+
+### Hexadecimal --> Decimal
+
+### Decimal --> Hexadecimal
+
+
+
+
+
